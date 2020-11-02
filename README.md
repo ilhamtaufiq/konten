@@ -1,2 +1,0 @@
-# konten
-konten untuk blog
